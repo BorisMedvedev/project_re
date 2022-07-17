@@ -2,6 +2,7 @@ const path = require('path');
 
 const NODE_ENW = process.cross-env.NODE_ENW;
 
+
 module.exports = {
   mode: NODE_ENW ? NODE_ENW : 'development',
   resolve:{

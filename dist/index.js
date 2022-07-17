@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/ts-loader/index.js):\\nTypeError: loaderContext.getOptions is not a function\\n    at getLoaderOptions (D:\\\\project_re\\\\node_modules\\\\ts-loader\\\\dist\\\\index.js:91:41)\\n    at Object.loader (D:\\\\project_re\\\\node_modules\\\\ts-loader\\\\dist\\\\index.js:14:21)\");\n\n//# sourceURL=webpack:///./src/index.jsx?");
+eval("throw new Error(\"Module parse failed: Unexpected token (30:14)\\nFile was processed with these loaders:\\n * ./node_modules/ts-loader/index.js\\nYou may need an additional loader to handle the result of these loaders.\\n| const Header_1 = require(\\\"./Header\\\");\\n| window.addEventListener(type, 'load', listener(), {\\n>     ReactDOM, : .render(React.createElement(Header_1.Header, null), document.getElementById(elementid, 'react_root'))\\n| });\\n| \");\n\n//# sourceURL=webpack:///./src/index.jsx?");
 
 /***/ })
 
